@@ -1,0 +1,31 @@
+.big-banner{
+    background-image: linear-gradient(#fcf4fc, #f85df8);
+    height: 100vh;
+    opacity: 100%;
+}
+
+.vaish{
+    width: 50%;
+    margin-left: 36%;
+}
+
+.big-bann{
+    background-image: linear-gradient(#e4bcf6,#c217f6);
+    height: 100vh;
+    opacity: 90%;
+    
+}
+
+.happy{
+    text-align: center;
+    width: 320px;
+    padding: 10px;
+    /* border: 5px solid gray; */
+    height: 100px;
+}
+
+.bye{
+    background-image: linear-gradient(#e6eeec,#16978c,#020d0c);
+    height: 100vh;
+    opacity: 90%;
+}
